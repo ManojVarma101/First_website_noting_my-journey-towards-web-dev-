@@ -1,2 +1,2 @@
-# First_website_noting_my-journey-towards-web-dev-
+# HTML_CSS_Journey
 I created a website which shows my entrance into the world of front end development 
